@@ -1,0 +1,16 @@
+body {
+  background: #edf1e3;
+}
+
+.sources-table{
+  width: 30%;
+}
+
+.container{
+  margin-left: 1px;
+}
+
+.scrollable-menu {
+  height: auto;
+  padding: 4px 17px;
+}
